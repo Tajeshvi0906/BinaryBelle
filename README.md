@@ -1,5 +1,5 @@
 # BinaryBelle
-# Hi 👋 I'm Jiyaa Singh
+# Hi 👋 I'm Tajeshvi
 
 💻 Computer Science Student  
 🌱 Currently learning Full Stack Development  
@@ -21,9 +21,9 @@
 - Student Management System
 - Portfolio Website
 - Calculator App
+- Dental appointment website
 
 ---
 
 📫 Reach me at:
-- LinkedIn: your-link
-- Email: your-email
+- Email: tajeshvi47@gmail.com
